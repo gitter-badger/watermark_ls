@@ -1,4 +1,6 @@
 # Watermark
+
+[![Join the chat at https://gitter.im/Lefff/watermark_ls](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Lefff/watermark_ls?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Команда №4
 
 ## Установка
